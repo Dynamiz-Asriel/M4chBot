@@ -95,6 +95,7 @@ O/P: Thay đổi kích thước ô lưới
 Enter: Chuyển đến bước OCR
 \
 Esc: Quay lại bước trước
+\
 _Ví dụ:_
 \
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a2c31f1-eb10-454f-a9b9-af769ce6bac0" />
@@ -114,7 +115,9 @@ Mũi tên Lên/Xuống: Di chuyển cạnh dưới
 ENTER: Chuyển đến chọn màu | BACKSPACE: Hoàn tác hành động trước đó
 
 *Bạn phải điều chỉnh bot và web để khớp với các màu còn lại.*
+\
 _Ví dụ:_
+\
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d59b50a9-4a70-4bfb-ad12-fef15ec7dd24" />
 
 **5. Chọn màu**
