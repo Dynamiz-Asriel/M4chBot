@@ -68,3 +68,7 @@ And set config 20 (20x20)
   
 
 - And follow M4chBot instruction.
+
+# Preview
+<img width="1920" height="1080" alt="received_1469887524133609" src="https://github.com/user-attachments/assets/8b158b2f-bc9a-48a1-9639-9b0d33a2c0b0" />
+
