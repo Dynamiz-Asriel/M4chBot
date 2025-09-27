@@ -11,7 +11,7 @@ _<p align="center">A Wplace bot using mouse to place color, legal bot</p>_
 *<p align="center">[M4chBot Creator (Facebook)](https://www.facebook.com/Sh1n3w4r3/)</p>*
 <p align="center">
     Nếu bạn là người Việt Nam thì nhấn vô lá cờ nha;b ➜&nbsp;
-      <a href="M4chBot/README_VN.md"><img src="https://github.com/user-attachments/assets/6c592671-160e-4d1d-b472-fc4091aef9b4" width="48" alt="VietNam Flag"></a>
+      <a href="/README_VN.md"><img src="https://github.com/user-attachments/assets/6c592671-160e-4d1d-b472-fc4091aef9b4" width="48" alt="VietNam Flag"></a>
   </p>
 
 
