@@ -12,6 +12,9 @@ _<p align="center">A Wplace bot using mouse to place color, legal bot</p>_
 
 *<p align="center">Nếu bạn là người Việt Nam thì nhấn vô lá cờ nha;b</p>*
 
+![https://github.com/user-attachments/assets/6c592671-160e-4d1d-b472-fc4091aef9b4](https://github.com/user-attachments/assets/6c592671-160e-4d1d-b472-fc4091aef9b4)
+
+
 # Instructions
 ## How to install
 1. You need Download 2 file:
