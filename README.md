@@ -131,7 +131,7 @@ ENTER: next to ADJUST SPEED | ESC: return to OCR.
 1. Click 'Paint' to open Color panel
 \
    <img width="559" height="257" alt="image" src="https://github.com/user-attachments/assets/26ec20f4-926e-4947-b389-36729aa8fd89" />
-\
+   
 3. Click 'Thêm màu' in M4chBot
 
 4. Move your cursor over the color you want to add.
