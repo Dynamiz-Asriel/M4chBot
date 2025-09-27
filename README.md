@@ -12,9 +12,9 @@ A bot using mouse to place color, legal bot
 ## How to install
 You need Download 2 file:
 
-_Tesseract_: https://archive.org/details/tesseract-ocr-w64-setup-5.5.0.202 41111
+_Tesseract_: https://archive.org/details/tesseract-ocr-w64-setup-5.5.0.20241111
 
-_Font_: https://archive.org/details/ jet-brains-mono-regular
+_Font_: https://archive.org/details/jet-brains-mono-regular
 
 - Install Tesseract on your PC
 - Copy and paste Font into Drive C (Address is C:\C:\JetBrainsMono-Regular.ttf)
