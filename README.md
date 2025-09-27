@@ -8,7 +8,7 @@ A Wplace bot using mouse to place color, legal bot
 
 *M4chBot Creator*: https://www.facebook.com/Sh1n3w4r3
 
-# instructions
+# Instructions
 ## How to install
 You need Download 2 file:
 
@@ -18,7 +18,7 @@ _Font_: https://archive.org/details/jet-brains-mono-regular
 
 - Install Tesseract on your PC
 - Copy and paste Font into Drive C (Address is C:\JetBrainsMono-Regular.ttf)
-- Download M4chBot at *M4chBot Webpage* (⚠️ You must choose the correct resolution for your screen and scale must be set to 100%)
+- Download M4chBot at *M4chBot Webpage* (⚠️ You must choose the correct resolution for your screen)
 
 ## How to use
 
