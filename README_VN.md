@@ -28,9 +28,9 @@ _<p align="center">Bot Wplace sử dụng chuột để đặt màu, bot ko vi p
 
 **1. Đặt địa chỉ web như sau**
 
-Zoom=18.94  -> 100x100
+zoom=18.94  -> 100x100
 \
-Zoom=18.85  -> 95x95
+zoom=18.85  -> 95x95
 \
 zoom=18.77  -> 90x90
 \
