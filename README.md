@@ -26,7 +26,7 @@ _<p align="center">A Wplace bot using mouse to place color, legal bot</p>_
 ## How to use
 Oh i forgot, you need use [Blue Marble](https://github.com/SwingTheVine/Wplace-BlueMarble) to use bot;b
 
-### 1. Set the web address to following this
+**1. Set the web address to following this**
 
 Zoom=18.94  -> 100x100
 \
