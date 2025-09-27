@@ -71,13 +71,13 @@ And set config 20 (20x20)
 \
 <img width="632" height="166" alt="image" src="https://github.com/user-attachments/assets/aba83bf3-16c0-4fbe-9477-ceab0dd4f131" />
 
-### 2. Set Browser Zoom to 80% ( You can press Ctrl + - or Ctrl + + )
+**2. Set Browser Zoom to 80% ( You can press Ctrl + - or Ctrl + + )**
 \
 <img width="370" height="165" alt="image" src="https://github.com/user-attachments/assets/142be3f0-e792-4465-8de2-b3195fa40028" />
 
   
 
-### 3. Set screen
+**3. Set screen**
 \
 <img width="883" height="852" alt="Screenshot 2025-09-27 210127" src="https://github.com/user-attachments/assets/12e536fc-c227-4669-b691-09e70c795d9c" />
 
@@ -95,11 +95,11 @@ O/P: Resize grid cells
 Enter: Next to OCR
 \
 Esc: Go back
-#### Example:
+_Example:_
 \
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a2c31f1-eb10-454f-a9b9-af769ce6bac0" />
 
-### 4. Set Text Paint
+**4. Set Text Paint**
 \
 <img width="825" height="261" alt="Screenshot 2025-09-27 212451" src="https://github.com/user-attachments/assets/13d5313c-5aca-4a48-a9e1-25f550771965" />
 
@@ -114,10 +114,10 @@ Up/Down Arrow: Move bottom side
 ENTER: Next to select color | BACKSPACE: Undo last action
 
 *You have to adjust the bot and web to match the remaining colors.*
-#### Example:
+_Example:_
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d59b50a9-4a70-4bfb-ad12-fef15ec7dd24" />
 
-### 5. Select color
+**5. Select color**
 \
 <img width="663" height="323" alt="image" src="https://github.com/user-attachments/assets/d0c15a8e-0efb-4e77-b417-83e75221152d" />
 
@@ -127,7 +127,7 @@ Click 'Xóa nhiều màu' to select the colors you want to remove.
 \
 ENTER: next to ADJUST SPEED | ESC: return to OCR.
 
-**How to add colors**
+***How to add colors***
 1. Click 'Paint' to open Color panel
 \
    <img width="559" height="257" alt="image" src="https://github.com/user-attachments/assets/26ec20f4-926e-4947-b389-36729aa8fd89" />
@@ -143,13 +143,13 @@ ENTER: next to ADJUST SPEED | ESC: return to OCR.
 
 6. If you have finished adding colors, press 'Esc' to go back.
 
-**How to delete colors**
+***How to delete colors***
 1. Click 'Xóa nhiều màu' in M4chBot
 2. Choose the colors you want to delete
 3. Press Enter/Delete to Delete them
 4. Press Esc to go back
 
-### 6. Set click speed
+**6. Set click speed**
 \
 <img width="673" height="378" alt="image" src="https://github.com/user-attachments/assets/52071895-c77e-460e-8f17-bb2e3addda26" />
 \
@@ -160,7 +160,7 @@ Esc: Go back
 The higher you drag the slider, the faster the speed, and vice versa.
 > Please note: a higher speed will consume more of your computer's resources and may cause lag. Therefore, please choose a speed that is appropriate for your system.
    
-### 7. Set name config
+**7. Set name config**
 \
 <img width="811" height="294" alt="image" src="https://github.com/user-attachments/assets/8b3cce26-ee2b-42a0-8cfa-f3a57879ae9d" />
 \
@@ -176,4 +176,3 @@ Use a short name. When you click 'Tải cấu hình có sẵn', you'll need to t
 
 # Preview
 <img width="1920" height="1080" alt="received_1469887524133609" src="https://github.com/user-attachments/assets/8b158b2f-bc9a-48a1-9639-9b0d33a2c0b0" />
-
