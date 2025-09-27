@@ -1,4 +1,4 @@
-# M4chBot
+# Wplace M4chBot
 
 A Wplace bot using mouse to place color, legal bot
 
