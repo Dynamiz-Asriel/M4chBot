@@ -59,16 +59,12 @@ zoom=16.93  -> 25x25
 
 zoom=16.605 -> 20x20 
 
-
-www.wplace.live/?zoom=
-
-
 Example: wplace.live/?zoom=16.605
 
 And set config 20 (20x20)
 
 
-- Set Browser Zoom to 80%
+- Set Browser Zoom to 80% ( You can press Ctrl + - or Ctrl + +
   
 
 - And follow M4chBot instruction.
