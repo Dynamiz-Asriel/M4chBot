@@ -9,15 +9,15 @@ _<p align="center">A Wplace bot using mouse to place color, legal bot</p>_
 *<p align="center">[M4chBot Webpage](https://dicek9.tail5cc147.ts.net/)</p>*
 *<p align="center">[M4chBot Fanpage (Facebook)](https://www.facebook.com/m4chbotdev/)</p>*
 *<p align="center">[M4chBot Creator (Facebook)](https://www.facebook.com/Sh1n3w4r3/)</p>*
-
-*<p align="center">Nếu bạn là người Việt Nam thì nhấn vô lá cờ nha;b</p>*
-
-![https://github.com/user-attachments/assets/6c592671-160e-4d1d-b472-fc4091aef9b4](https://github.com/user-attachments/assets/6c592671-160e-4d1d-b472-fc4091aef9b4)
+<p align="center">
+    Nếu bạn là người Việt Nam thì nhấn vô lá cờ nha;b ➜&nbsp;
+      <a href="M4chBot/README VN.md"><img src="https://github.com/user-attachments/assets/6c592671-160e-4d1d-b472-fc4091aef9b4" width="48" alt="VietNam Flag"></a>
+  </p>
 
 
 # Instructions
 ## How to install
-1. You need Download 2 file:
+1. pngpngYou need Download 2 file:
     - _Tesseract_: [Download Here](https://archive.org/details/tesseract-ocr-w64-setup-5.5.0.20241111)
     - _Font_: [Download Here](https://archive.org/details/jet-brains-mono-regular)
 
