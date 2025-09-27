@@ -10,6 +10,8 @@ _<p align="center">A Wplace bot using mouse to place color, legal bot</p>_
 *<p align="center">[M4chBot Fanpage (Facebook)](https://www.facebook.com/m4chbotdev/)</p>*
 *<p align="center">[M4chBot Creator (Facebook)](https://www.facebook.com/Sh1n3w4r3/)</p>*
 
+*<p align="center">Nếu bạn là người Việt Nam thì nhấn vô lá cờ nha;b</p>*
+
 # Instructions
 ## How to install
 1. You need Download 2 file:
