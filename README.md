@@ -165,8 +165,11 @@ The higher you drag the slider, the faster the speed, and vice versa.
 <img width="811" height="294" alt="image" src="https://github.com/user-attachments/assets/8b3cce26-ee2b-42a0-8cfa-f3a57879ae9d" />
 \
 Enter: Save
+\
 Backspace: Delete Character
+\
 Esc: Go back
+\
 The name will be saved into the 'settings' folder within your user directory.
 \
 Use a short name. When you click 'Tải cấu hình có sẵn', you'll need to type this exact name to load it.
