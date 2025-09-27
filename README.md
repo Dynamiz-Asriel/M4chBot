@@ -33,9 +33,9 @@ Oh i forgot, you need use [Blue Marble](https://github.com/SwingTheVine/Wplace-B
 
 **1. Set the web address to following this**
 
-Zoom=18.94  -> 100x100
+zoom=18.94  -> 100x100
 \
-Zoom=18.85  -> 95x95
+zoom=18.85  -> 95x95
 \
 zoom=18.77  -> 90x90
 \
@@ -100,6 +100,7 @@ O/P: Resize grid cells
 Enter: Next to OCR
 \
 Esc: Go back
+\
 _Example:_
 \
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a2c31f1-eb10-454f-a9b9-af769ce6bac0" />
@@ -119,6 +120,7 @@ Up/Down Arrow: Move bottom side
 ENTER: Next to select color | BACKSPACE: Undo last action
 
 *You have to adjust the bot and web to match the remaining colors.*
+\
 _Example:_
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d59b50a9-4a70-4bfb-ad12-fef15ec7dd24" />
 
