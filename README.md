@@ -17,7 +17,7 @@ _Tesseract_: https://archive.org/details/tesseract-ocr-w64-setup-5.5.0.20241111
 _Font_: https://archive.org/details/jet-brains-mono-regular
 
 - Install Tesseract on your PC
-- Copy and paste Font into Drive C (Address is C:\C:\JetBrainsMono-Regular.ttf)
+- Copy and paste Font into Drive C (Address is C:\JetBrainsMono-Regular.ttf)
 - Download M4chBot at *M4chBot Webpage*
 [⚠️ You must choose the correct resolution for your screen and scale must be set to 100%]
 
