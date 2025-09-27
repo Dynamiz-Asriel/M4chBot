@@ -24,9 +24,9 @@
    \
    > Example: Your PC resolution is 1920 x 1080, then choose correct bot or choose release version is 1920
 ## How to use
-Oh i forgot you need use [Blue Marble](https://github.com/SwingTheVine/Wplace-BlueMarble) to use bot;b
+Oh i forgot, you need use [Blue Marble](https://github.com/SwingTheVine/Wplace-BlueMarble) to use bot;b
 
-1. Set the web address to following this
+### 1. Set the web address to following this
 
 Zoom=18.94  -> 100x100
 \
@@ -70,16 +70,106 @@ Example: wplace.live/?zoom=16.605
 And set config 20 (20x20)
 \
 <img width="632" height="166" alt="image" src="https://github.com/user-attachments/assets/aba83bf3-16c0-4fbe-9477-ceab0dd4f131" />
-\
-\
-\
-2. Set Browser Zoom to 80% ( You can press Ctrl + - or Ctrl + + )
+
+### 2. Set Browser Zoom to 80% ( You can press Ctrl + - or Ctrl + + )
 \
 <img width="370" height="165" alt="image" src="https://github.com/user-attachments/assets/142be3f0-e792-4465-8de2-b3195fa40028" />
 
   
 
-- And follow M4chBot instruction.
+### 3. Set screen
+\
+<img width="883" height="852" alt="Screenshot 2025-09-27 210127" src="https://github.com/user-attachments/assets/12e536fc-c227-4669-b691-09e70c795d9c" />
+
+
+A/D: Move left side
+\
+W/S: Move top side
+\
+Left/Right Arrow: Move right side
+\
+Up/Down Arrow: Move bottom side
+\
+O/P: Resize grid cells
+\
+Enter: Next to OCR
+\
+Esc: Go back
+#### Example:
+\
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a2c31f1-eb10-454f-a9b9-af769ce6bac0" />
+
+### 4. Set Text Paint
+\
+<img width="825" height="261" alt="Screenshot 2025-09-27 212451" src="https://github.com/user-attachments/assets/13d5313c-5aca-4a48-a9e1-25f550771965" />
+
+A/D: Move left side
+\
+W/S: Move top side
+\
+Left/Right Arrow: Move right side
+\
+Up/Down Arrow: Move bottom side
+\
+ENTER: Next to select color | BACKSPACE: Undo last action
+
+*You have to adjust the bot and web to match the remaining colors.*
+#### Example:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d59b50a9-4a70-4bfb-ad12-fef15ec7dd24" />
+
+### 5. Select color
+\
+<img width="663" height="323" alt="image" src="https://github.com/user-attachments/assets/d0c15a8e-0efb-4e77-b417-83e75221152d" />
+
+Click 'Thêm màu' to add select colors from the wplace color palette.
+\
+Click 'Xóa nhiều màu' to select the colors you want to remove.
+\
+ENTER: next to ADJUST SPEED | ESC: return to OCR.
+
+**How to add colors**
+1. Click 'Paint' to open Color panel
+\
+   <img width="559" height="257" alt="image" src="https://github.com/user-attachments/assets/26ec20f4-926e-4947-b389-36729aa8fd89" />
+\
+3. Click 'Thêm màu' in M4chBot
+
+4. Move your cursor over the color you want to add.
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebed605c-3061-4dc4-9255-dfaf687ddb1b" />
+
+5. Then press 'S' to save color
+   - If shows 'Đã Lưu' you have added successfully
+   - If shows 'Màu đã tồn tại!' you have already added it
+
+6. If you have finished adding colors, press 'Esc' to go back.
+
+**How to delete colors**
+1. Click 'Xóa nhiều màu' in M4chBot
+2. Choose the colors you want to delete
+3. Press Enter/Delete to Delete them
+4. Press Esc to go back
+
+### 6. Set click speed
+\
+<img width="673" height="378" alt="image" src="https://github.com/user-attachments/assets/52071895-c77e-460e-8f17-bb2e3addda26" />
+\
+Enter: Save config
+\
+Esc: Go back
+\
+The higher you drag the slider, the faster the speed, and vice versa.
+> Please note: a higher speed will consume more of your computer's resources and may cause lag. Therefore, please choose a speed that is appropriate for your system.
+   
+### 7. Set name config
+\
+<img width="811" height="294" alt="image" src="https://github.com/user-attachments/assets/8b3cce26-ee2b-42a0-8cfa-f3a57879ae9d" />
+\
+Enter: Save
+Backspace: Delete Character
+Esc: Go back
+The name will be saved into the 'settings' folder within your user directory.
+\
+Use a short name. When you click 'Tải cấu hình có sẵn', you'll need to type this exact name to load it.
 
 # Preview
 <img width="1920" height="1080" alt="received_1469887524133609" src="https://github.com/user-attachments/assets/8b158b2f-bc9a-48a1-9639-9b0d33a2c0b0" />
