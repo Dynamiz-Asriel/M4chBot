@@ -3,35 +3,30 @@
 
 **<p align="center">Wplace M4chBot</p>**
 
-_<p align="center">A Wplace bot using mouse to place color, legal bot</p>_
+_<p align="center">Bot Wplace sử dụng chuột để đặt màu</p>_
 
 
-*<p align="center">[M4chBot Webpage](https://m4chbot.tail5cc147.ts.net/)</p>*
-*<p align="center">[M4chBot Fanpage (Facebook)](https://www.facebook.com/m4chbotdev/)</p>*
-*<p align="center">[M4chBot Creator (Facebook)](https://www.facebook.com/Sh1n3w4r3/)</p>*
-<p align="center">
-    Nếu bạn là người Việt Nam thì nhấn vô lá cờ nha ➜&nbsp;
-      <a href="/README_VN.md"><img src="https://github.com/user-attachments/assets/6c592671-160e-4d1d-b472-fc4091aef9b4" width="48" alt="VietNam Flag"></a>
-  </p>
+*<p align="center">[Trang Web M4chBot](https://m4chbot.tail5cc147.ts.net/)</p>*
+*<p align="center">[Fanpage M4chBot (Facebook)](https://www.facebook.com/m4chbotdev/)</p>*
+*<p align="center">[Tác Giả M4chBot (Facebook)](https://www.facebook.com/Sh1n3w4r3/)</p>*
 
+# Hướng dẫn
+## Cách cài đặt
+1. Bạn cần Tải xuống 2 tệp:
+    - _Tesseract_: [Tải xuống tại đây](https://archive.org/details/tesseract-ocr-w64-setup-5.5.0.20241111)
+    - _Phông chữ_: [Tải xuống tại đây](https://archive.org/details/jet-brains-mono-regular)
 
-# Instructions
-## How to install
-1. pngpngYou need Download 2 file:
-    - _Tesseract_: [Download Here](https://archive.org/details/tesseract-ocr-w64-setup-5.5.0.20241111)
-    - _Font_: [Download Here](https://archive.org/details/jet-brains-mono-regular)
-
-2.  Install Tesseract on your PC
-3. Copy and paste Font into Drive C
-   > Address is C:\JetBrainsMono-Regular.ttf
-5. Download M4chBot at *[M4chBot Webpage](https://dicek9.tail5cc147.ts.net/)*
-   > ⚠️ You must choose the correct resolution for your screen
+2.  Cài đặt Tesseract trên máy tính của bạn
+3. Sao chép và dán Phông chữ vào ổ C
+   > Đường dẫn là C:\JetBrainsMono-Regular.ttf
+5. Tải M4chBot tại *[Trang Web M4chBot](https://dicek9.tail5cc147.ts.net/)*
+   > ⚠️ Bạn phải chọn đúng độ phân giải cho màn hình của bạn
    \
-   > Example: Your PC resolution is 1920 x 1080, then choose correct bot or choose release version is 1920
-## How to use
-Oh i forgot, you need use [Blue Marble](https://github.com/SwingTheVine/Wplace-BlueMarble) to use bot;b
+   > Ví dụ: Độ phân giải máy tính của bạn là 1920 x 1080, thì hãy chọn bot tương ứng hoặc chọn bản phát hành có số 1920
+## Cách sử dụng
+Ồ tôi quên mất, bạn cần sử dụng [Blue Marble](https://github.com/SwingTheVine/Wplace-BlueMarble) để sử dụng bot ;b
 
-**1. Set the web address to following this**
+**1. Đặt địa chỉ web như sau**
 
 zoom=18.94  -> 100x100
 \
@@ -65,121 +60,122 @@ zoom=17.19  -> 30x30
 \
 zoom=16.93  -> 25x25
 \
-zoom=16.605 -> 20x20 
+zoom=16.605 -> 20x20
 
-Example: wplace.live/?zoom=16.605
+Ví dụ: wplace.live/?zoom=16.605
 \
 <img width="310" height="120" alt="image" src="https://github.com/user-attachments/assets/4e4d4c29-f895-49d0-8637-c1b7e99c4a47" />
 \
 \
-And set config 20 (20x20)
+Và đặt cấu hình là 20 (20x20)
 \
 <img width="632" height="166" alt="image" src="https://github.com/user-attachments/assets/aba83bf3-16c0-4fbe-9477-ceab0dd4f131" />
 
-**2. Set Browser Zoom to 80% ( You can press Ctrl + - or Ctrl + + )**
+**2. Đặt Thu Phóng Trình Duyệt thành 80% (Bạn có thể nhấn Ctrl + - hoặc Ctrl + + )**
 \
 <img width="370" height="165" alt="image" src="https://github.com/user-attachments/assets/142be3f0-e792-4465-8de2-b3195fa40028" />
 
   
 
-**3. Set screen**
+**3. Thiết lập màn hình**
 \
 <img width="883" height="852" alt="Screenshot 2025-09-27 210127" src="https://github.com/user-attachments/assets/12e536fc-c227-4669-b691-09e70c795d9c" />
 
 
-A/D: Move left side
+A/D: Di chuyển cạnh trái
 \
-W/S: Move top side
+W/S: Di chuyển cạnh trên
 \
-Left/Right Arrow: Move right side
+Mũi tên Trái/Phải: Di chuyển cạnh phải
 \
-Up/Down Arrow: Move bottom side
+Mũi tên Lên/Xuống: Di chuyển cạnh dưới
 \
-O/P: Resize grid cells
+O/P: Thay đổi kích thước ô lưới
 \
-Enter: Next to OCR
+Enter: Chuyển đến bước OCR
 \
-Esc: Go back
+Esc: Quay lại bước trước
 \
-_Example:_
+_Ví dụ:_
 \
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a2c31f1-eb10-454f-a9b9-af769ce6bac0" />
 
-**4. Set Text Paint**
+**4. Thiết lập Vùng Văn Bản**
 \
 <img width="825" height="261" alt="Screenshot 2025-09-27 212451" src="https://github.com/user-attachments/assets/13d5313c-5aca-4a48-a9e1-25f550771965" />
 
-A/D: Move left side
+A/D: Di chuyển cạnh trái
 \
-W/S: Move top side
+W/S: Di chuyển cạnh trên
 \
-Left/Right Arrow: Move right side
+Mũi tên Trái/Phải: Di chuyển cạnh phải
 \
-Up/Down Arrow: Move bottom side
+Mũi tên Lên/Xuống: Di chuyển cạnh dưới
 \
-ENTER: Next to select color | BACKSPACE: Undo last action
+ENTER: Chuyển đến chọn màu | BACKSPACE: Hoàn tác hành động trước đó
 
-*You have to adjust the bot and web to match the remaining colors.*
+*Bạn phải điều chỉnh bot và web để khớp với các màu còn lại.*
 \
-_Example:_
+_Ví dụ:_
+\
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d59b50a9-4a70-4bfb-ad12-fef15ec7dd24" />
 
-**5. Select color**
+**5. Chọn màu**
 \
 <img width="663" height="323" alt="image" src="https://github.com/user-attachments/assets/d0c15a8e-0efb-4e77-b417-83e75221152d" />
 
-Click 'Thêm màu' to add select colors from the wplace color palette.
+Nhấp vào 'Thêm màu' để thêm các màu đã chọn từ bảng màu wplace.
 \
-Click 'Xóa nhiều màu' to select the colors you want to remove.
+Nhấp vào 'Xóa nhiều màu' để chọn các màu bạn muốn xóa.
 \
-ENTER: next to ADJUST SPEED | ESC: return to OCR.
+ENTER: chuyển đến ĐIỀU CHỈNH TỐC ĐỘ | ESC: quay lại bước OCR.
 
-***How to add colors***
-1. Click 'Paint' to open Color panel
+***Cách thêm màu***
+1. Nhấp vào 'Paint' để mở Bảng màu
 \
    <img width="559" height="257" alt="image" src="https://github.com/user-attachments/assets/26ec20f4-926e-4947-b389-36729aa8fd89" />
    
-3. Click 'Thêm màu' in M4chBot
+3. Nhấp vào 'Thêm màu' trong M4chBot
 
-4. Move your cursor over the color you want to add.
+4. Di chuyển con trỏ chuột của bạn qua màu bạn muốn thêm.
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebed605c-3061-4dc4-9255-dfaf687ddb1b" />
 
-5. Then press 'S' to save color
-   - If shows 'Đã Lưu' you have added successfully
-   - If shows 'Màu đã tồn tại!' you have already added it
+5. Sau đó nhấn 'S' để lưu màu
+   - Nếu hiển thị 'Đã Lưu' là bạn đã thêm thành công
+   - Nếu hiển thị 'Màu đã tồn tại!' nghĩa là bạn đã thêm màu đó rồi
 
-6. If you have finished adding colors, press 'Esc' to go back.
+6. Nếu bạn đã thêm xong màu, nhấn 'Esc' để quay lại.
 
-***How to delete colors***
-1. Click 'Xóa nhiều màu' in M4chBot
-2. Choose the colors you want to delete
-3. Press Enter/Delete to Delete them
-4. Press Esc to go back
+***Cách xóa màu***
+1. Nhấp vào 'Xóa nhiều màu' trong M4chBot
+2. Chọn các màu bạn muốn xóa
+3. Nhấn Enter/Delete để Xóa chúng
+4. Nhấn Esc để quay lại
 
-**6. Set click speed**
+**6. Đặt tốc độ nhấp chuột**
 \
 <img width="673" height="378" alt="image" src="https://github.com/user-attachments/assets/52071895-c77e-460e-8f17-bb2e3addda26" />
 \
-Enter: Save config
+Enter: Lưu cấu hình
 \
-Esc: Go back
+Esc: Quay lại
 \
-The higher you drag the slider, the faster the speed, and vice versa.
-> Please note: a higher speed will consume more of your computer's resources and may cause lag. Therefore, please choose a speed that is appropriate for your system.
+Bạn kéo thanh trượt càng cao, tốc độ càng nhanh và ngược lại.
+> Lưu ý: tốc độ cao hơn sẽ tiêu thụ nhiều tài nguyên máy tính hơn và có thể gây ra hiện tượng giật lag. Vì vậy, hãy chọn tốc độ phù hợp với hệ thống của bạn.
    
-**7. Set name config**
+**7. Đặt tên cấu hình**
 \
 <img width="811" height="294" alt="image" src="https://github.com/user-attachments/assets/8b3cce26-ee2b-42a0-8cfa-f3a57879ae9d" />
 \
-Enter: Save
+Enter: Lưu
 \
-Backspace: Delete Character
+Backspace: Xóa Ký tự
 \
-Esc: Go back
+Esc: Quay lại
 \
-The name will be saved into the 'settings' folder within your user directory.
+Tên sẽ được lưu vào thư mục 'settings' trong thư mục người dùng của bạn.
 \
-Use a short name. When you click 'Tải cấu hình có sẵn', you'll need to type this exact name to load it.
+Hãy sử dụng một tên ngắn gọn. Khi bạn nhấp vào 'Tải cấu hình có sẵn', bạn sẽ cần nhập chính xác tên này để tải nó.
 
-# Preview
+# Xem trước
 <img width="1920" height="1080" alt="received_1469887524133609" src="https://github.com/user-attachments/assets/8b158b2f-bc9a-48a1-9639-9b0d33a2c0b0" />
