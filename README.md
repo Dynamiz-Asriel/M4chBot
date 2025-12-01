@@ -12,17 +12,7 @@ _<p align="center">Bot Wplace sử dụng chuột để đặt màu</p>_
 
 # Hướng dẫn
 ## Cách cài đặt
-1. Bạn cần Tải xuống 2 tệp:
-    - _Tesseract_: [Tải xuống tại đây](https://archive.org/details/tesseract-ocr-w64-setup-5.5.0.20241111)
-    - _Phông chữ_: [Tải xuống tại đây](https://archive.org/details/jet-brains-mono-regular)
-
-2.  Cài đặt Tesseract trên máy tính của bạn
-3. Sao chép và dán Phông chữ vào ổ C
-   > Đường dẫn là C:\JetBrainsMono-Regular.ttf
-5. Tải M4chBot tại *[Trang Web M4chBot](https://dicek9.tail5cc147.ts.net/)*
-   > ⚠️ Bạn phải chọn đúng độ phân giải cho màn hình của bạn
-   \
-   > Ví dụ: Độ phân giải máy tính của bạn là 1920 x 1080, thì hãy chọn bot tương ứng hoặc chọn bản phát hành có số 1920
+1. Tải M4chBot tại *[Trang Web M4chBot](https://dicek9.tail5cc147.ts.net/)*
 ## Cách sử dụng
 Ồ tôi quên mất, bạn cần sử dụng [Blue Marble](https://github.com/SwingTheVine/Wplace-BlueMarble) để sử dụng bot ;b
 
