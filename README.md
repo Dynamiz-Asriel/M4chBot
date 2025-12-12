@@ -25,7 +25,7 @@ Ví dụ: wplace.live/?zoom=15.612
 \
 Và đặt cấu hình là 10 (10x10)
 \
-<img width="632" height="166" alt="image" src="https://github.com/user-attachments/assets/aba83bf3-16c0-4fbe-9477-ceab0dd4f131" />
+<img width="632" height="166" alt="image" src="https://files.catbox.moe/qkx43v.png" />
 
 **2. Đặt Thu Phóng Trình Duyệt thành 80% (Bạn có thể nhấn Ctrl + - hoặc Ctrl + + )**
 \
