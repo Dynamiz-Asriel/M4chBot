@@ -17,47 +17,13 @@ _<p align="center">Bot Wplace sử dụng chuột để đặt màu</p>_
 Ồ tôi quên mất, bạn cần sử dụng [Blue Marble](https://github.com/SwingTheVine/Wplace-BlueMarble) để sử dụng bot ;b
 
 **1. Đặt địa chỉ web như sau**
-
-zoom=18.94  -> 100x100
+zoom=15.612 -> 10x10
+Ví dụ: wplace.live/?zoom=15.612
 \
-zoom=18.85  -> 95x95
-\
-zoom=18.77  -> 90x90
-\
-zoom=18.7   -> 85x85
-\
-zoom=18.6   -> 80x80
-\
-zoom=18.51  -> 75x75
-\
-zoom=18.42  -> 70x70
-\
-zoom=18.31  -> 65x65
-\
-zoom=18.19  -> 60x60
-\
-zoom=18.07  -> 55x55
-\
-zoom=17.93  -> 50x50
-\
-zoom=17.78  -> 45x45
-\
-zoom=17.61  -> 40x40
-\
-zoom=17.42  -> 35x35
-\
-zoom=17.19  -> 30x30
-\
-zoom=16.93  -> 25x25
-\
-zoom=16.605 -> 20x20
-
-Ví dụ: wplace.live/?zoom=16.605
-\
-<img width="310" height="120" alt="image" src="https://github.com/user-attachments/assets/4e4d4c29-f895-49d0-8637-c1b7e99c4a47" />
+<img width="310" height="120" alt="image" src="https://files.catbox.moe/l9hmf6.png" />
 \
 \
-Và đặt cấu hình là 20 (20x20)
+Và đặt cấu hình là 10 (10x10)
 \
 <img width="632" height="166" alt="image" src="https://github.com/user-attachments/assets/aba83bf3-16c0-4fbe-9477-ceab0dd4f131" />
 
