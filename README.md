@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/3e7d7563-72f8-49e1-a35f-f33ae4b08e1c" width="200" height="200" border="10"/>
+<p align="center"><img src="https://github.com/user-attachments/assets/4c03c0d4-052c-4736-b8a2-df2e9a9d91bf" width="200" height="200" border="10"/>
 </p>
 
 **<p align="center">Wplace M4chBot</p>**
