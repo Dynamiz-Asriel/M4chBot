@@ -6,7 +6,6 @@
 _<p align="center">Bot Wplace sử dụng chuột để đặt màu</p>_
 
 
-*<p align="center">[Trang Web M4chBot](https://m4chbot.tail5cc147.ts.net/)</p>*
 *<p align="center">[Fanpage M4chBot (Facebook)](https://www.facebook.com/m4chbotdev/)</p>*
 *<p align="center">[Tác Giả M4chBot (Facebook)](https://www.facebook.com/Sh1n3w4r3/)</p>*
 
