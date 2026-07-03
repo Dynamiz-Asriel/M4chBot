@@ -11,7 +11,7 @@ _<p align="center">Bot Wplace sử dụng chuột để đặt màu</p>_
 
 # Hướng dẫn
 ## Cách cài đặt
-1. Tải M4chBot tại *[Trang Web M4chBot](https://m4chbot.tail5cc147.ts.net/)*
+1. Tải M4chBot tại release GitHub
 ## Cách sử dụng
 Ồ tôi quên mất, bạn cần sử dụng [Blue Marble](https://github.com/SwingTheVine/Wplace-BlueMarble) để sử dụng bot ;b
 
